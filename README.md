@@ -1,9 +1,8 @@
 ### Hello guys 👋
 
-Perkenalkan nama saya **Muhammad Fatkhu Rohman**.  
-Sekarang aku menempuh pendidikan di Universitas Diponegoro jurusan Informatika.  
-Sekarang aku sedang belajar tentang pengembangan aplikasi android menggunakan Kotlin.  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fatkhu-rohman-1628071bb/) ku ya.  
+Introduce my name Rohman, now I'm studying as an Informatics student at Diponegoro University. 
+I'm interested in developing software. I'm currently focusing on learning to develop android apps using kotlin. 
+If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/fatkhu-rohman-1628071bb/)
 
 <p align="left">
 <a href="https://github.com/fatkhurhmn">
