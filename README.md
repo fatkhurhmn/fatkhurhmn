@@ -1,6 +1,6 @@
 # Hi everyone!
 ### My name is **Muhammad Fatkhu Rohman**.
- I'm studying as an Informatics student at Diponegoro University. I have an interest about programming and software development, especially Android development using Kotlin. I also have the ability in the field of design, like poster, logo, UI/UX and other.
+An android developer with more than one year experience in Android application development. In-depth knowledge of developing Android applications using Kotlin and Jetpack Compose. Ableto integrate android applications with REST API and apply clean architecture. Successfully pass the Associate Android Developer certification exam in 2022.
 
 ### Tech Stack
   <img align="left" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
